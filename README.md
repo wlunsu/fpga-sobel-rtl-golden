@@ -95,4 +95,3 @@ reports/   精简后的验证结果
 2. 将组合 Sobel 算术进一步流水化并同步延迟`valid`。
 3. 增加 AXI4-Stream wrapper，再接入 DMA 或 Red Pitaya PS 侧缓存。
 
-

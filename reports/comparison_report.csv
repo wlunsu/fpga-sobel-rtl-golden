@@ -1,0 +1,7 @@
+case_name,width,height,expected_pixels,golden_pixels,rtl_pixels,mismatch_count,max_abs_error,mae,rmse,first_mismatch,rtl_nonzero_border_pixels,status
+constant,64,64,4096,4096,4096,0,0,0.0,0.0,,0,PASS
+vertical_step,64,64,4096,4096,4096,0,0,0.0,0.0,,0,PASS
+horizontal_step,64,64,4096,4096,4096,0,0,0.0,0.0,,0,PASS
+impulse,64,64,4096,4096,4096,0,0,0.0,0.0,,0,PASS
+structured,64,64,4096,4096,4096,0,0,0.0,0.0,,0,PASS
+random_seeded,64,64,4096,4096,4096,0,0,0.0,0.0,,0,PASS

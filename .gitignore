@@ -1,0 +1,13 @@
+build/
+reports/*
+!reports/comparison_report.csv
+!reports/comparison_report.json
+!reports/synthesis_status_xc7z010.txt
+!reports/previews/
+!reports/previews/*.png
+testdata/results/
+testdata/cases/
+testdata/golden_preview/
+testdata/manifest.csv
+__pycache__/
+
